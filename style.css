@@ -1,0 +1,15 @@
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+body {
+  background-color: #000000; /* Page background */
+  color: #FFFFFF;            /* Default text color */
+}
+
+h1, h2 {
+  color: #DC143C;            /* Heading colors */
+}
+
+a {
+  color: #DC143C;            /* Link color */
+}
